@@ -1,0 +1,58 @@
+[
+    {
+        "role": "user",
+        "content": "Previous conversation:\nAssistant: Welcome to Doctor AI Chat. How can I help you today?\nUser: i ahve fever\n\nCurrent query: i ahve fever\n\nPlease respond to the current query with consideration of the conversation history."
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry to hear that you have a fever. Can you please tell me more about your symptoms? How long have you been experiencing the fever, and is it accompanied by any other symptoms such as body aches, cough, or sore throat?"
+    },
+    {
+        "role": "user",
+        "content": "Previous conversation:\nAssistant: Welcome to MediMind AI Chat. How can I help you today?\nUser: kese ho\n Current query: kese ho  Please respond to the current query with consideration of the conversation history."
+    },
+    {
+        "role": "assistant",
+        "content": "Main theek hun! I'm here to help you. How about you? How are you feeling today?"
+    },
+    {
+        "role": "user",
+        "content": "Previous conversation:\nAssistant: Welcome to MediMind AI Chat. How can I help you today?\nUser: kese ho\nAssistant: Main theek hun! I'm here to help you. How about you? How are you feeling today?\nUser: me aaj acha ni hu kal raat se mere pet me dard hai\n Current query: me aaj acha ni hu kal raat se mere pet me dard hai  Please respond to the current query with consideration of the conversation history."
+    },
+    {
+        "role": "assistant",
+        "content": "Oh no, sorry to hear that you're not feeling well and having stomach pain since last night. Can you please tell me more about the pain? Is it a sharp pain, cramping, or a dull ache? And have you eaten something that might have triggered it?"
+    },
+    {
+        "role": "user",
+        "content": "Previous conversation:\nAssistant: Welcome to MediMind AI Chat. How can I help you today?\nUser: hello\n Current query: hello  Please respond to the current query with consideration of the conversation history."
+    },
+    {
+        "role": "assistant",
+        "content": "Namaste! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Previous conversation:\nAssistant: Welcome to MediMind AI Chat. How can I help you today?\nUser: hello\nAssistant: Namaste! How can I assist you today?\nUser: i have fever from last night\n Current query: i have fever from last night  Please respond to the current query with consideration of the conversation history."
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry to hear that! Fever can be uncomfortable. Can you please tell me more about your fever? Is it high, mild, or intermittent? And have you noticed any other symptoms like body ache, headache, or sweating?"
+    },
+    {
+        "role": "user",
+        "content": "Parse the following prescription text and list the medication, dosage, and timing details: cp Quest Care Medical Clinic\n\nAnand Society, Dindayal Road, Ghatkopar\n\nquestca re Mumbai, 368585 . Ph: 08097700800\n\nMEDICAL CLINIC\nPatient: Aakruti Kapoor Mr. Anil Kumar Sharma\nFemale, 31 years M.D.S. (Pune)\n8097700800 Registration No.: A-77363\n\nDate: 01-05-2019\n\nComplaint: Full Body Pain, Weakness Feeling\nObservations: High Body Temperature, Reddish eye\n\nInvestigations Suggested:\n\n\u00a2 Cratine\n* CBC Count\n\nDiagnosis: Dengue\n\nRx\nMedicine Dosage Duration Measure Instructions\nTab Rantac 150mg 1-1-1 3 days After Meal\nCAP SM FIBRO 1-0-1 5 days qual de\n\nRemarks: Keep measuring body Temp. twice a day.\n\nNext follow-up date: Friday May 03, 2019 5:00 PM\n\nAuthorised Signature\n\nThis is a computer generated document\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Here are the medication, dosage, and timing details:\n\n1. Tab Rantac:\n\t* Dosage: 150mg\n\t* Timing: 1-1-1 (1 tablet three times a day)\n\t* Duration: 3 days\n\t* Instructions: After Meal\n2. CAP SM FIBRO:\n\t* Dosage: Not specified\n\t* Timing: 1-0-1 (1 capsule in the morning, none in the afternoon, 1 capsule in the evening)\n\t* Duration: 5 days\n\t* Instructions: qual de (not clear, possibly a typo or abbrevation)"
+    },
+    {
+        "role": "user",
+        "content": "Parse the following prescription text and list the medication, dosage, and timing details: cp Quest Care Medical Clinic\n\nAnand Society, Dindayal Road, Ghatkopar\n\nquestca re Mumbai, 368585 . Ph: 08097700800\n\nMEDICAL CLINIC\nPatient: Aakruti Kapoor Mr. Anil Kumar Sharma\nFemale, 31 years M.D.S. (Pune)\n8097700800 Registration No.: A-77363\n\nDate: 01-05-2019\n\nComplaint: Full Body Pain, Weakness Feeling\nObservations: High Body Temperature, Reddish eye\n\nInvestigations Suggested:\n\n\u00a2 Cratine\n* CBC Count\n\nDiagnosis: Dengue\n\nRx\nMedicine Dosage Duration Measure Instructions\nTab Rantac 150mg 1-1-1 3 days After Meal\nCAP SM FIBRO 1-0-1 5 days qual de\n\nRemarks: Keep measuring body Temp. twice a day.\n\nNext follow-up date: Friday May 03, 2019 5:00 PM\n\nAuthorised Signature\n\nThis is a computer generated document\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Here are the medication, dosage, and timing details:\n\n1. Tab Rantac:\n\t* Dosage: 150mg\n\t* Timing: 1-1-1 (1 tablet three times a day)\n\t* Duration: 3 days\n\t* Instructions: After Meal\n2. CAP SM FIBRO:\n\t* Dosage: Not specified\n\t* Timing: 1-0-1 (1 capsule in the morning, none in the afternoon, 1 capsule in the evening)\n\t* Duration: 5 days\n\t* Instructions: qual de (not clear, possibly a typo or abbreviation)"
+    }
+]
